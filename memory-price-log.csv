@@ -1,0 +1,2 @@
+date,dram_ddr5_16gb_contract,dram_ddr5_spot,dram_ddr4_contract,nand_512gb_tlc_contract,nand_spot,notes
+2026-10-12,NA,NA,NA,NA,18.833,"nand_spot = 512Gb TLC wafer USD as of 2026-10-05 (TrendForce 2026-10-07; -2.90% WoW). DDR4 1Gx8 3200 spot (not a log column) = 46.32 as of 2026-10-06 flat WoW. DDR5 spot not reported by TrendForce this week. Contract $ prices not free; 4Q26 QoQ guidance only: conventional DRAM +10-15%; NAND +15-20% (TrendForce 2026-09-30). Exit trigger: NO."
