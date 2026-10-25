@@ -1,0 +1,45 @@
+# Scuttlebutt Brief — 2026-10-25 (Sunday)
+
+**Window:** Sunday is not covered by the schedule rules. I used a 72-hour look-back (Thu 10/22 evening to Sun 10/25 ET), the same as a Monday run, to cover the weekend.
+
+**Data quality warning:** The web search tool returned almost nothing dated inside the window. Most hits were older or secondary-source commentary. Nothing below is confirmed as published inside the window unless the item says so. Items are labeled by how reliable they are. Please verify before acting on any of them.
+
+## What actually matters today
+- **No confirmed in-window thesis-trigger events.** I found no greenfield memory fab commissioning (the HIGH PRIORITY exit trigger) and no NAND/DRAM contract-price datapoint dated in the window.
+- **Earnings catalyst (unverified):** One aggregator (BigGo) says MU and SNDK both report on **Oct 29**. The date is unconfirmed, so check the company IR pages. If it holds, the memory read-through (pricing, HBM, capex, greenfield timing, Mehrotra commentary) lands this week.
+- **Analyst tone on memory remains very bullish (dated approximately Oct 21–23):** TipRanks reports a new Buy initiation on SNDK at a $2,050 target on firm NAND pricing and enterprise SSD upside. Details are below.
+- **Greenfield timing is trending earlier (background, not in-window):** TrendForce-sourced reports say SK Hynix's Yongin first cleanroom moved up to Feb 2027 and Samsung P5 tool install may move up to 2Q27. Both are relevant to the exit trigger as supply timing.
+
+## SanDisk (SNDK)
+1. **Analyst: Buy initiation, $2,050 target** (TipRanks, ~Oct 21; verify date). The analyst is Lloyd Walmsley (bank not captured). The prior target is n/a because this is an initiation. The thesis is firm NAND pricing and enterprise SSD upside. Tag: 7. Source: [Yahoo Finance roundup](https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-aggressive-price-targets-203300720.html)
+2. **Price context:** SNDK is around $1,740, with consensus targets of roughly $2,100–2,225 depending on the aggregator ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/SNDK/forecast/)). TipRanks also headlined a rebound after an Oct 23 sell-off, but I could not retrieve the cause. Tag: 7/8. Uncertain.
+
+## Micron (MU)
+1. **Analyst: Lynx Research** targets MU at $1,325 and SNDK at $2,450, the most aggressive on the Street. These are about 7 weeks old (not in-window), so this is context only. Prior target and thesis weren't captured. Tag: 7. Source: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-aggressive-price-targets-203300720.html)
+2. **Price context:** MU is around $1,016. 24/7 Wall St. (10/15) rates it Hold with a ~$1,059 target ([link](https://247wallst.com/investing/2026/10/15/micron-stock-has-some-eye-popping-analyst-targets-heres-my-price-prediction/)).
+3. **Background, not in-window and not verified against filings:** Reports cite a ~$100B contracted backlog with $22B in deposits, a Q4 FY26 guide of ~$50B revenue at ~86% gross margin, and LTAs running through 2028. Source: [Nasdaq profile](https://www.nasdaq.com/articles/global-indexes/inside-the-index/mu). Treat these as unverified.
+
+## Memory capacity / greenfield (affects MU and SNDK, background only, no in-window items)
+- **SK Hynix Yongin:** Y1 first cleanroom reportedly pulled forward from May 2027 to Feb 2027, with Y2 construction starting around July next year. Source: [TrendForce](https://www.trendforce.com/news/2026/03/05/news-sk-hynix-commits-additional-usd-15-billion-escalating-fab-expansion-race-among-memory-giants/), [Blocks & Files (Aug 7)](https://www.blocksandfiles.com/flash/2026/08/07/sk-hynix-building-new-dram-and-nand-fabs/5284568?type=News). Tag: 3.
+- **Samsung P5:** Phase 1 tool install is being considered earlier, in 2Q27 versus 3Q27, with operations targeted for 2028. Tag: 3.
+- **YMTC:** A third fab is under construction, with a ramp starting in 2027. Entity-list limits remain. Tag: 3/5.
+- No commissioning has been reported. Watch Feb 2027 for Yongin.
+
+## Vistra (VST)
+1. **Reported $4B U.S. DOE loan to support nuclear production** (Newsquawk, Oct 2; outside window and unconfirmed). It is also executing the Cogentrix gas acquisition. Tag: 5/1. Uncertain.
+2. **Background:** A 20-year PPA for 200–207 MW with New Era Energy & Digital (Sept 21), with Vistra taking a 5% non-voting stake ([DCD](https://datacenterdynamics.com/en/news/new-era-signs-20-year-gas-ppa-with-vistra-subsidiary-to-power-250mw-data-center-in-ector-county-texas)). It also has Meta nuclear PPAs totaling 2,609 MW. Tag: 2.
+
+## Bloom Energy (BE)
+- **Securities class actions:** Multiple suits filed in 2026 allege misstatements about its supply chain. BE rose 34% in September, and its Brookfield partnership was expanded to $25B. Source: [Yahoo Finance](https://finance.yahoo.com/energy/articles/bloom-energy-vs-vistra-energy-105242872.html). Not in-window. Tag: 5/6. Uncertain.
+
+## Nvidia (NVDA), Alphabet (GOOGL), Marvell (MRVL)
+- **Alphabet:** The latest capex data is from Q2 (July 22). Guidance was raised to $195–205B, and sources conflict on the exact range. Cloud backlog is reported at ~$514B. Not in-window. Tag: 2. Source: [Motley Fool](https://www.fool.com/investing/2026/07/27/alphabets-massive-ai-investment-push-signals-more/)
+- **Nvidia and Marvell:** Nvidia invested $2B in Marvell and the two announced an NVLink Fusion partnership on March 31. Not in-window. Tag: 1/4. Source: [Nvidia IR](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-AI-Ecosystem-Expands-as-Marvell-Joins-Forces-Through-NVLink-Fusion/default.aspx)
+
+## No material developments found
+Dell (DELL), GigaCloud (GCT). Searches returned nothing relevant. This does not mean nothing happened, given the weak search coverage.
+
+## Follow-ups for the next run
+- Confirm the MU and SNDK earnings dates and set up their pre-earnings checks.
+- Pull primary sources directly: SEC EDGAR (Form 4, 13D/G, 8-K), TrendForce DRAM/NAND contract price releases, and company IR pages.
+- Re-run the Dell, GCT and NVDA searches with narrower queries.
