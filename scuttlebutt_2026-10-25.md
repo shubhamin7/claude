@@ -45,6 +45,8 @@
 | BTIG | Buy | $295 | $250 | Cut, same margin/cash theme |
 | Jefferies | Hold | $289 | $242 | Cut; flagged no update on its largest opportunity, Oracle (Project Jupiter). Source: [Stocktwits](https://stocktwits.com/news-articles/markets/equity/be-stock-worst-single-day-fall-3-months-lack-of-updates-oracle-project-jupiter/cZUGhLbRBUQ) |
 | Roth | Neutral | $260 | $230 | Cut |
+| Barclays | Equal-Weight (per Oct 1 note; current rating unconfirmed) | $308 | $316 | Raise; thesis not captured. Reported Oct 26, so it falls after this brief's window. Source: [Rallies.ai](https://rallies.ai/news/bloom-energy-corporation-barclays-raises-target-price-to-316-from-308-edacccbee6b8c86d) |
+| Evercore ISI | Outperform | $350 | $350 (reiterated) | Per Investing.com, the Monday note reiterated Outperform and $350 with no change. Cited $181M negative FCF, rising capex and data-center contract execution risk. Stock was $193.30 at the time. Source: [Investing.com](https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-bloom-energy-stock-rating-on-growth-outlook-93CH-4972052) |
 
 Consensus is a Buy at about $285-287 across roughly 29 analysts, measured before all the cuts. Tag: 7. Source: [TipRanks](https://www.tipranks.com/news/why-did-analysts-slash-bloom-energy-stock-be-price-targets-despite-praising-q3-earnings-beats)
 4. **Background:** Brookfield partnership expanded to $25B (June) and multiple 2026 securities class actions over supply-chain statements. Tag: 5/6.
